@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm sudesh kavinda</h1>
 <h3 align="center">A passionate full-stack developer from sri lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 - 🌱 I’m currently learning **java**
 
