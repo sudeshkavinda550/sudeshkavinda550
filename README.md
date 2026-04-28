@@ -1,7 +1,26 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi, I'm Sudesh Kavinda</h1>
-<h3 align="center">Software Developer | Full Stack Developer | Web Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudeshkavinda550&label=Profile%20views&color=0e75b6&style=flat" alt="sudeshkavinda550" /> </p>
+<p align="center" ></p>
+<!-- Header with Waving Capsule -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello,%20I'm%20Sudesh!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20coding%20universe&descAlignY=55&descAlign=62" width="100%"/>
+</div>
+
+<!-- Hacker/Coding Animation & Typing Effect -->
+<div align="center">
+  <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Passionate+IT+Student;Open+Source+Enthusiast;Software+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- About Me Section -->
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+ I am a passionate developer exploring the boundless world of technology. I love building efficient software, solving complex problems, and learning new frameworks.
+</p>
 
 <table align="center">
 <tr border="none">
@@ -45,10 +64,20 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=python,go,java,js,ts,react,flask,html,css,bootstrap,tailwind,github,postgresql,mysql,vscode,postman,c,mongodb," />
+<img src="https://skillicons.dev/icons?i=python,go,java,js,ts,react,flask,html,css,bootstrap,tailwind,github,postgresql,mysql,vscode,postman,c,mongodb,express,nodejs" />
 </h3>
 
 
-<h3> Connect with me
-<a href="https://www.linkedin.com/in/sudesh-kavinda-1a5909270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudesh kavinda" height="30" width="40" /></a>
+<h3 align="center">Connect with me</h3>
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sudesh-kavinda-1a5909270" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:sudeshkavinda550@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
