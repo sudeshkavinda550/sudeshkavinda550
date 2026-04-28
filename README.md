@@ -64,7 +64,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=python,go,java,js,ts,react,flask,html,css,bootstrap,tailwind,github,postgresql,mysql,vscode,postman,c,mongodb,express,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,go,java,js,ts,react,flask,html,css,bootstrap,tailwind,github,postgresql,mysql,vscode,postman,c,mongodb,express,nodejs,net,php" />
 </h3>
 
 
