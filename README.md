@@ -16,7 +16,7 @@
 <br/>
 
 <!-- About Me Section -->
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">
  I am a passionate developer exploring the boundless world of technology. I love building efficient software, solving complex problems, and learning new frameworks.
